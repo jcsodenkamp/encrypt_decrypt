@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+button {
+    background-color: red;
+    color: white;
+}
+
+
+#decrypt {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+#crypt {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+div {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
