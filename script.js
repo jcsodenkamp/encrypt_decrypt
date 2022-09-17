@@ -17,7 +17,7 @@ const codeCrypt = (str) => {
 
 const codeDecrypt = (str) => {
     str = document.getElementById("decrypt").value
-    str = str.toLowerCase()
+
     let newStr = []
     for (let letter in str) {
         newStr.push(str.charCodeAt(letter) + 10)
